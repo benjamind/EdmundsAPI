@@ -1,0 +1,4 @@
+(function () {
+    window.Edmundium = window.Edmundium || {};
+    Edmundium.apiKey = '<YOUR API KEY HERE>';
+})();
