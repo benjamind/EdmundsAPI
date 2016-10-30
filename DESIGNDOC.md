@@ -39,6 +39,7 @@ Future Work
 * Tooltips
 * Webcomponentize the project using Polymer or webcomponents.js
 * Break up app.js into smaller chunks dealing with form and results page separately
+* If not using web components implement SASS/LESS to simplify CSS
 
 Known Bugs
 ==========
